@@ -1,0 +1,21 @@
+
+body {
+    background-image: url('logo Cruzados -x 6.png'); /* Ruta de tu imagen */
+    background-repeat: repeat; /* Repite la imagen tanto horizontal como verticalmente */
+    background-size: 35%; /* Mantiene el tamaño original de la imagen */
+}
+
+
+h1{
+    font-size: 100px;
+    text-shadow: 20px 20px 50px rgba(10, 20,30,40);
+    color: #4caf50; ;
+    font-style:italic ;
+    font-weight:bold ;
+    text-transform: uppercase;
+    text-decoration: underline;}
+
+    
+    <div class="large-space"></div>
+
+
